@@ -2,7 +2,7 @@
 node_modules/
 
 # Dependency lock file
-package-lock.json
+# package-lock.json
 
 # Environment variables
 .env
